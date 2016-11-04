@@ -2,3 +2,4 @@ git config --list
 git status
 git init
 git add .
+git commit -m "First Commit or whatever!"
